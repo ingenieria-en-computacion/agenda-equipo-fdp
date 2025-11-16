@@ -10,7 +10,7 @@ struct Persona{
     char nombre[30];
     // apellido
     // mes de nacimiento
-    // dia de nacimiento
+    // dia de nacimient
     // tipo contacto
     // numero de telefono
     // tipo de numero
