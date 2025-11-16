@@ -15,7 +15,7 @@ int main() {
 
     ordenar_contactos_inv(&a);
 
-    assert(strcmp(a.contactos[0].nombre, "Calrlos") == 0);
+    assert(strcmp(a.contactos[0].nombre, "Carlos") == 0);
     assert(strcmp(a.contactos[1].nombre, "Helena") == 0);
     assert(strcmp(a.contactos[2].nombre, "Ana") == 0);
 
